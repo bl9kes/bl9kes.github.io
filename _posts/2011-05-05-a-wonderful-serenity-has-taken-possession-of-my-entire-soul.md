@@ -1,7 +1,7 @@
 ---
 date: 2024-03-07 12:26:40
 layout: post
-title: I won't take piblic transit but ill Ride the Bus!
+title: I won't take public transit but i'll Ride the Bus!
 subtitle: Get drunk now!
 description: Python implementation of the famous card game Ride the Bus.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
