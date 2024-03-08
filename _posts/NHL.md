@@ -1,19 +1,21 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2024-03-07 12:26:40
 layout: post
-title: Birds can fly, but this you knew already
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: NHL
+subtitle: NHL team and player stats analysis.
+description: NHL hockey stats analysis program implemented in python.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: life
+category: Python
 tags:
-  - life
-  - tips
-author: mranderson
+  - Python
+  - VScode
+  - Pandas
+  - Jupyter Labs
+author: blakestewart
 ---
 
-Boss. Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Boss. <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.*
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 

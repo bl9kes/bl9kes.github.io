@@ -2,11 +2,11 @@
 date: 2024-03-07 12:26:40
 layout: post
 title: I won't take public transit but i'll Ride the Bus!
-subtitle: Get drunk now!
+subtitle: World famous card drinking game!
 description: Python implementation of the famous card game Ride the Bus.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
-category: Code
+category: Python
 tags:
   - Python
   - VScode

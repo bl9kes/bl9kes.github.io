@@ -1,21 +1,22 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Life in Nature
+title: Hobbies
 subtitle: A disconnect from reality.
-description: When Blake is not working, he is often found exploring nature.
+description: When Blake is not working, he is often found exploring nature and breaking down objects to their finest little parts and building some new and creative out of it.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: life
 tags:
   - Fishing
   - Camping
+  - Mechanics
   - Photography
 author: blakestewart
 paginate: true
 ---
 
-Boss baby! Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Boss baby! Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* 
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
