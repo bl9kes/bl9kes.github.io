@@ -1,20 +1,19 @@
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Blake Stewart! Who's that?
-subtitle: 'Find out now!'
+title: Who is Blake Stewart?
+subtitle: 'Find out now'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  A student at the University of Victoria majoring in Computer Science and Psychology.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: blog
+category: Inro
 tags:
   - welcome
-  - blog
-author: mranderson
+  - introduction
+author: blakestewart
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
